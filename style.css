@@ -1,0 +1,19 @@
+  p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(87, 83, 83);
+  }
+  li{
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(87, 83, 83);
+  }
+  h1{
+    color: rgb(230, 59, 93);
+    font-weight: bold;
+    font-size: 64px;
+
+}
+h2{
+    color: rgb(61, 78, 238);
+    font-weight: bold;
+    font-size: 32px;
+}
